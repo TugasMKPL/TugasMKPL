@@ -92,6 +92,7 @@
   <!-- Membuat fitur 2 -->
   <!-- Memperbaiki fitur 2 -->
   <!-- Menambahkan element pada fiture 2 -->
+  <!-- Memperbaiki bug element pada fiture 2 -->
 
   <!--Footer -->
   <?php include 'footer.php'; ?>
