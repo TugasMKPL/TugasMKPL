@@ -93,6 +93,7 @@
   <!-- Memperbaiki fitur 2 -->
   <!-- Menambahkan element pada fiture 2 -->
   <!-- Memperbaiki bug element pada fiture 2 -->
+  <!-- Menambahkan element waktu pada fiture 2 -->
 
   <!--Footer -->
   <?php include 'footer.php'; ?>
