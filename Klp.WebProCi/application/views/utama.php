@@ -86,6 +86,7 @@
       </div>
     </div>
   </section>
+  <!-- Hotfix 1 -->
 
   <!--Footer -->
   <?php include 'footer.php'; ?>
