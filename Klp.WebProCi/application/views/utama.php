@@ -86,6 +86,7 @@
       </div>
     </div>
   </section>
+  <!-- Membuat Fitur 1 -->
 
   <!--Footer -->
   <?php include 'footer.php'; ?>
