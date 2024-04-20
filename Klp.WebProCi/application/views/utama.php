@@ -89,6 +89,8 @@
   <!-- Membuat Fitur 1 -->
   <!-- Memperbaiki Fitur 1 -->
 
+  <!-- Membuat fitur 2 -->
+
   <!--Footer -->
   <?php include 'footer.php'; ?>
   <!--Footer -->
