@@ -90,6 +90,7 @@
   <!-- Memperbaiki Fitur 1 -->
 
   <!-- Menambahkan Element pada fitur 1 -->
+  <!-- Memperbaiki bug element pada fitur 1 -->
   <!--Footer -->
   <?php include 'footer.php'; ?>
   <!--Footer -->
