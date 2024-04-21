@@ -86,6 +86,19 @@
       </div>
     </div>
   </section>
+  <!-- Membuat Fitur 1 -->
+  <!-- Memperbaiki Fitur 1 -->
+
+
+  <!-- Membuat fitur 2 -->
+  <!-- Memperbaiki fitur 2 -->
+  <!-- Menambahkan element pada fiture 2 -->
+  <!-- Memperbaiki bug element pada fiture 2 -->
+  <!-- Menambahkan element waktu pada fiture 2 -->
+
+
+  <!-- Menambahkan Element pada fitur 1 -->
+  <!-- Memperbaiki bug element pada fitur 1 -->
   <!-- Hotfix 1 -->
 
   <!--Footer -->
