@@ -100,8 +100,10 @@
   <!-- Menambahkan Element pada fitur 1 -->
   <!-- Memperbaiki bug element pada fitur 1 -->
   <!-- Hotfix 1 -->
-  
+
   <!-- Memperbaiki bug element waktu pada fiture 2 -->
+  <!-- Membuat Fitur 3 -->
+
 
   <!--Footer -->
   <?php include 'footer.php'; ?>
